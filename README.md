@@ -3,7 +3,7 @@
 **Course:** CSCI 4661 / 5661 – Topics in Mobile Application Development  
 **Assignment:** Homework #2 – Mobile Combat Calculator  
 **Student:** Joshua Reynoso  
-**Email:** jareynoso@uno.edu  
+
 
 ---
 
